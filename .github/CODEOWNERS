@@ -1,0 +1,4 @@
+# Managed by ALPHACI. A change to the pipeline needs a review from a
+# pipeline owner (the ALPHACI admins). Change workflows through ALPHACI.
+/.github/workflows/ @Alpha-Explora/alphaci-pipeline-owners
+/.github/CODEOWNERS @Alpha-Explora/alphaci-pipeline-owners
